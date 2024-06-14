@@ -1,4 +1,5 @@
 Question : https://leetcode.com/problems/count-primes/description/
+//Sieve of Eratosthenes
 Code :
 class Solution {
     public int countPrimes(int n) {
